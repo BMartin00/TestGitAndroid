@@ -41,4 +41,11 @@
 </dependency>
 
   </dependencies>
+  
+  <properties>
+  	<sonar.organization>bmartin00</sonar.organization>
+    <sonar.projectKey>BMartin00_TestGitAndroid</sonar.projectKey>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+
 </project>
